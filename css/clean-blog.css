@@ -110,19 +110,19 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav > li.nav-item > a {
-  font-size: 30px;
+  font-size: 12px;
   font-weight: 800;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
-
+/*
 #mainNav .navbar-nav > .navbar-nav2 > li.nav-item > a {
   font-size: 30px;
   font-weight: 800;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
-
+*/
 @media only screen and (min-width: 992px) {
   #mainNav {
     border-bottom: 1px solid transparent;
