@@ -116,7 +116,7 @@ img::-moz-selection {
   text-transform: uppercase;
 }
 
-#mainNav .navbar-nav > li.nav-item > a .navbar-nav > li.nav-item > a{
+#mainNav .navbar-nav2 > li.nav-item2 > a {
   font-size: 12px;
   font-weight: 800;
   letter-spacing: 1px;
