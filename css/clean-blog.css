@@ -121,7 +121,7 @@ img::-moz-selection {
   font-weight: 800;
   letter-spacing: 1px;
   text-transform: uppercase;
-  background: #dee2e6;
+  background-color: #dee2e6;
 }
 
 @media only screen and (min-width: 992px) {
